@@ -15,5 +15,8 @@
 		"astro": "^2.10.7",
 		"unocss": "^0.55.0",
 		"vitest": "^0.34.1"
+	},
+	"dependencies": {
+		"modern-normalize": "^2.0.0"
 	}
 }

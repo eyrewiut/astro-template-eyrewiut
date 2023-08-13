@@ -6,9 +6,7 @@ export default defineConfig({
 	// TODO: Change site name
 	site: "https://eyrewiut.github.io/",
 	integrations: [
-		UnoCSS({
-			injectReset: true,
-		}),
+		UnoCSS(),
 	],
 	experimental: {
 		assets: true,
